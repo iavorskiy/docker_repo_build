@@ -1,4 +1,4 @@
-**script_app**
+**docker_repo_build**
 =====================
 
 Bash script for build docker image from git repo.
